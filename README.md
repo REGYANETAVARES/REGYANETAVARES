@@ -49,7 +49,7 @@ Projetos de análise e visualização de dados populacionais utilizando ferramen
 ### 📝 Sistema de Gestão Técnica
 Desenvolvimento de sistemas para gerenciamento de relatórios, testes e implementações de funcionalidades.
 
-## 🎯 Objetivos 2025
+## 🎯 Objetivos 2026
 
 - ✅ Concluir a graduação em TSI
 - 🎯 Conquistar a primeira oportunidade como Desenvolvedora
