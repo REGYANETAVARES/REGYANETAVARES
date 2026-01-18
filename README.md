@@ -36,8 +36,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=REGYANETAVARES&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=REGYANETAVARES&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=REGYANETAVARES&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=REGYANETAVARES&theme=dark)](https://git.io/streak-stats)
 
 </div>
 
